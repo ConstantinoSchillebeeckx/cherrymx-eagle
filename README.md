@@ -1,7 +1,7 @@
 cherrymx-eagle
 ==============
 
-![cherry MX eagle library](http://i.imgur.com/szJnP7x.png)
+![cherry MX eagle library](library.png?raw=true)
 
 #### a basic eagle library for cherry mx keyswitches
 
