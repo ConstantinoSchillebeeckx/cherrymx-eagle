@@ -1,7 +1,7 @@
 cherrymx-eagle
 ==============
 
-**Fork**: this fork includes "symmetric" footprints for switches which allows use on both sides of a PCB. This is especially useful in cases of a split design that uses symmetric PCBs.
+**Fork**: this fork includes "symmetric" footprints for switches which allows use on both sides of a PCB. This is especially useful in cases of a split design that uses symmetric PCBs. Note that in the symmetric version, the diameter for the mirrored pins are reduced from 0.1 to 0.076 in order to make home routing (e.g. with Othermill) possible using a 1/64th end mill bit.
 
 ![cherry MX eagle library](library.png?raw=true)
 
