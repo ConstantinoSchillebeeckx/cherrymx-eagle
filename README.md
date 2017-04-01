@@ -9,4 +9,4 @@ This fork includes
 
 Follow [this](https://learn.sparkfun.com/tutorials/how-to-install-and-setup-eagle/using-the-sparkfun-libraries) for instructions on how to add the library to Eagle.
 
-[Imgur](http://i.imgur.com/mDpnKwM.png)
+<a href="http://imgur.com/mDpnKwM"><img src="http://i.imgur.com/mDpnKwM.png" /></a>
