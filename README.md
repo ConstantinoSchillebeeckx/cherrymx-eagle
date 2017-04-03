@@ -9,4 +9,5 @@ This fork includes
 
 Follow [this](https://learn.sparkfun.com/tutorials/how-to-install-and-setup-eagle/using-the-sparkfun-libraries) for instructions on how to add the library to Eagle.
 
+*Note the image below is not current, the alignment pins are now drills instead of pads.*
 <a href="http://imgur.com/mDpnKwM"><img src="http://i.imgur.com/mDpnKwM.png" /></a>
